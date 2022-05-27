@@ -1,9 +1,10 @@
-### Hi there I am Vemund Halvorsen. Programmer. Technical Project Manager and Cyclist
+### Hi I am Vemund Halvorsen
 
+- 👋 Hi, I’m @vemundSeeds
 - Im a dotnet developer
 - I like Windows
 - I don't like the new taskbar on Windows 11
-- Working at Seeds
-- Im currently working as a Technical Project Manager at seeds.no
-- I ❤ Cycling 🚴‍♀️ 
+- Im working at Seeds Consulting AS as a Technical Project Manager
+- 👀 I’m interested in Cycling 🚴‍♀️, running, kayacking, geek stuff
+- 📫 im on Gmail with vemund.halvorsen
 
